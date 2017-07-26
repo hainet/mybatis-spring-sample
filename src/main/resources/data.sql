@@ -1,1 +1,1 @@
-INSERT INTO person (id, name, age) VALUES (1, 'haine', 25)
+INSERT INTO person (id, name, age) VALUES (1, 'hainet', 24)
